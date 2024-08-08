@@ -1,0 +1,15 @@
+[
+    {
+        "compras": [
+            {},
+            {
+                "fechaCompra": "2024-08-08",
+                "nombreProveedor": "wertwe",
+                "contactoProveedor": "1234",
+                "producto": "ertw",
+                "cantidad": 12,
+                "Precio": 123
+            }
+        ]
+    }
+]

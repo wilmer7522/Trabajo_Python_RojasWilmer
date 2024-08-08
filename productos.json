@@ -4,12 +4,12 @@
             {
                 "id": 1,
                 "Nombre": "Pan de Bono",
-                "Precio": 700
+                "Precio":700
             },
             {
                 "id": 2,
                 "Nombre": "Pan de Queso",
-                "Precio": 800
+                "Precio":800
             },
             {
                 "id": 3,

@@ -1,0 +1,13 @@
+[
+    {
+        "ventas": [
+            
+            {
+                "fechaVenta": "2024-08-08",
+                "nombreCliente": "saly",
+                "nombreEmpleado": "pepe",
+                "producto": "pan"
+            }
+        ]
+    }
+]
