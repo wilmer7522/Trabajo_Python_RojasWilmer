@@ -61,4 +61,4 @@ python3 tienda.py
 
 ## Créditos
 
-Desarrollado por: *Wilmer Rojas*
+Desarrollado por: *Wilmer Alexander Rojas Fuentes*
